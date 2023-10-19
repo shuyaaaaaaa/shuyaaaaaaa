@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zp-1l0kotbQAAAAC/death-note-anime.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuyaaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shuyaaaaaaa" /> </p>
 
-- 📫 How to reach me **shuya.ikeo@gmail.com**
+- 📫 How to reach me **shuyaikeo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
